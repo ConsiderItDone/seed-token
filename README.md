@@ -1,2 +1,2 @@
-# superbloom-seed-token
-SuperBloom Seed Token
+# seed-token
+Seed Token
